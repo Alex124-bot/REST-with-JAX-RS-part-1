@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="devops-starter" />
+        <module name="REST with JAX RS part 1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="REST with JAX RS part 1" options="-endorseddirs &quot;C:\Users\Alex\OneDrive\Datamatik\3.Semester\Flow 1\REST\REST with JAX RS part 1\target/endorsed&quot;" />
+      <module name="devops-starter" options="-endorseddirs C:/Users/Alex/OneDrive/Datamatik/3.Semester/Flow 1/REST/REST with JAX RS part 1/target/endorsed" />
+    </option>
+  </component>
+</project>
